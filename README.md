@@ -85,6 +85,7 @@ AZURE_OPENAI_API_KEY="secret-api_key"
 AZURE_OPENAI_DEPLOYMENT="gpt-4o"
 AZURE_OPENAI_API_VERSION="2025-01-01-preview"
 ```
+For the `AZURE_OPENAI_DEPLOYMENT` name you can use any of the following values as their corresponding model - `gpt-4o`, `o1`, `o3`, `o4-mini`, `gpt-5`, `gpt-5-mini`, `gpt-5-chat` and `model-router`.
 
 ## 2 Begin the Template and Studio
 
